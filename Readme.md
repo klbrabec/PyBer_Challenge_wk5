@@ -36,9 +36,10 @@ The summary details for the merged dataset are below:
     -- The highest average fare per driver are in cities in the Rural Designation 
 
 ### Fares by City Type 
-The plot above below the fares by city type over a four month period.   
+The plot below shows the fares by city type over a four month period.   
 ![Fig1.png](https://github.com/klbrabec/PyBer_Challenge_wk5/blob/main/analysis/Fig1.png)
 
+Note:  There are occasional spikes in activity in late February and throughout March.  Additional analysis is recommended to determine what may have caused those spikes. 
 
 ## Summary and Recommendations 
 ### Urban Average Fare per Driver Improvements 
