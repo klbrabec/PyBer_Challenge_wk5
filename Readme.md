@@ -10,7 +10,7 @@ The foundational data in this project comes from two datasets:
 - ride_data.csv - This dataset contains city, ride date, and fare amount
 
 Data was merged into a single dataset using the city name as the unique value to link the datasets together.  2375 records are in the merged dataset.
-<<INSERT merged_data.png>
+![Merged_Dataset](https://github.com/klbrabec/PyBer_Challenge_wk5/blob/main/Resources/merged_dataset.png)
 
 Note:  Assumptions were made on null values and duplicates in the merged dataset due to the types of data being used. 
 - Duplicates are unlikely for date/time values. 
@@ -20,7 +20,7 @@ Note:  Assumptions were made on null values and duplicates in the merged dataset
 
 ## Results
 The summary details for the merged dataset are below: 
-<<Insert summary_table.png>>
+![Summary_Table](https://github.com/klbrabec/PyBer_Challenge_wk5/blob/main/Resources/summary_table.png)
 
 ### Results summary
 - Rides 
@@ -36,7 +36,7 @@ The summary details for the merged dataset are below:
 
 ### Fares by City Type 
 The plot above below the fares by city type over a four month period.   
-<<Insert fig1.png>>
+![Fig1.png](https://github.com/klbrabec/PyBer_Challenge_wk5/blob/main/analysis/Fig1.png)
 
 
 ## Summary and Recommendations 
