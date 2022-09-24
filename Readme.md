@@ -10,6 +10,7 @@ The foundational data in this project comes from two datasets:
 - ride_data.csv - This dataset contains city, ride date, and fare amount
 
 Data was merged into a single dataset using the city name as the unique value to link the datasets together.  2375 records are in the merged dataset.
+
 ![Merged_Dataset](https://github.com/klbrabec/PyBer_Challenge_wk5/blob/main/Resources/merged_dataset.png)
 
 Note:  Assumptions were made on null values and duplicates in the merged dataset due to the types of data being used. 
